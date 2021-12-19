@@ -1,1 +1,1 @@
-# Twitter-Anti-Scam
+# Twitter anti-scam reply bot
